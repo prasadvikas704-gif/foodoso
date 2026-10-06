@@ -1,0 +1,7 @@
+{
+  "name": "FOODOSO - Food Home Delivery & Smart Bill Splitter",
+  "description": "Itemized restaurant bill splitter with AI receipt scanning, equal & custom splitting, UPI/Razorpay payment gateway, wallet, Pay Later half-split with interest, and spending dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
